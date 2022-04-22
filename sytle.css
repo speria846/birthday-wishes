@@ -1,0 +1,43 @@
+/*
+}
+#message{
+    background:#ffbf00;
+    width:300px;
+    box-shadow:0 0 9px 0 #333;
+    border-radius:10px;
+    font-family:ubuntu;
+    font-size:30px;
+    color:white;
+    text-shadow:0 0 9px white;
+    padding-top:10px;
+    padding-bottom:20px;
+}
+h1{
+    color:red;
+    font-family:great vibes;
+    margin-top:10px;
+    display:inline-block ;
+    font-size:40px;
+}
+#loaded{
+    background:yellow;
+    height:100vh;
+    width:100vw;
+    position:fixed;
+    z-index:1;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+}*/
+#loaded button{
+    background-color: crimson;
+    padding: 30px;
+}
+.box{
+box-sizing: border-box;
+background-color:rgb(202, 238, 59);
+height: 200px;
+width: 200px;
+}
+    
+
